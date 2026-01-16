@@ -22,24 +22,10 @@ h2 {
     color: #333;
 }
 
-.cert-link {
-  display: inline-block;
-  padding: 10px 15px;
-  background-color: #1e3a8a;
-  color: white;
-  text-decoration: none;
-  border-radius: 8px;
-  margin: 5px 0;
-}
-
-.cert-link:hover {
-  background-color: #2563eb;
-}
-
-
 footer {
     text-align: center;
     padding: 10px;
     background-color:blue;
     color: white;
 }
+
