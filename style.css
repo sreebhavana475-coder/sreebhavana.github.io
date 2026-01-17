@@ -12,6 +12,11 @@ header {
     text-align: center;
     padding: 40px;
 }
+      .hero {
+  text-align: center;
+  padding: 60px 20px;
+}
+
 
 section {
     background-color: #e0fff5;
@@ -28,6 +33,7 @@ footer {
     background-color:black;
     color: deeppink;
 }
+
 
 
 
