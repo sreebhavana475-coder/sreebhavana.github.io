@@ -7,12 +7,7 @@ body {
 }
 
 header {
-    .hero {
-  text-align: center;
-  padding: 80px 20px;
-    }
-
-    background-color: black;
+     background-color: black;
     color: deeppink;
     text-align: center;
     padding: 40px;
@@ -33,6 +28,7 @@ footer {
     background-color:black;
     color: deeppink;
 }
+
 
 
 
