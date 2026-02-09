@@ -8,6 +8,7 @@ body {
 
 section {
   margin-bottom: 50px;
+  background-color: aqua;
 }
 
 h2 {
@@ -37,6 +38,7 @@ h2 {
 .home-text h1 {
   font-size: 36px;
   margin-bottom: 10px;
+  background-color: aqua;
 }
 
 .home-text h2 {
@@ -50,7 +52,8 @@ h2 {
   gap: 20px;
   align-items: center;
   margin: 30px auto;
-  max-width: 900px;
+  max-width: 900px; 
+  background-color: aqua;
 }
 
 .about-grid img {
@@ -59,6 +62,7 @@ h2 {
   border-radius: 10px;
   display: block;
   margin: 0 auto;
+   background-color: aqua;
 }
 
 .skills-grid {
@@ -67,6 +71,7 @@ h2 {
   gap: 15px;
   max-width: 900px;
   margin: 20px auto 40px auto;
+   background-color: aqua;
 }
 
 .skills-grid div {
@@ -76,11 +81,13 @@ h2 {
   text-align: center;
   font-weight: bold;
   transition: 0.3s ease;
+   background-color: aqua;
 }
 
 .skills-grid div:hover {
   background: #e0f7fa;
   transform: scale(1.05);
+   background-color: aqua;
 }
 
 .projects-grid {
@@ -89,6 +96,7 @@ h2 {
   gap: 25px;
   max-width: 1000px;
   margin: 0 auto 40px auto;
+   background-color: aqua;
 }
 
 .projects-grid div {
@@ -96,11 +104,13 @@ h2 {
   background: #f7f7f7;
   border-radius: 10px;
   transition: 0.3s ease;
+   background-color: aqua;
 }
 
 .projects-grid div:hover {
   background: #e0f7fa;
   transform: scale(1.03);
+   background-color: aqua;
 }
 
 .projects-grid h3 {
