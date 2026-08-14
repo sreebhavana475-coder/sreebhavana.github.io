@@ -3,12 +3,12 @@ body {
   margin: 0;
   padding: 0 20px;
   line-height: 1.6;
-  background-color: aqua;
+  background-color: black;
 }
 
 section {
   margin-bottom: 50px;
-  background-color: aqua;
+  background-color: black;
 }
 
 h2 {
@@ -38,7 +38,7 @@ h2 {
 .home-text h1 {
   font-size: 36px;
   margin-bottom: 10px;
-  background-color: aqua;
+  background-color: black;
 }
 
 .home-text h2 {
@@ -53,7 +53,7 @@ h2 {
   align-items: center;
   margin: 30px auto;
   max-width: 900px; 
-  background-color: aqua;
+  background-color: black;
 }
 
 .about-grid img {
